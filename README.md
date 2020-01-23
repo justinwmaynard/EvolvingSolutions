@@ -2,6 +2,8 @@
 
 Justin Maynard
 
+January 23
+
 ## Informal Responses
 
 1. Blumenstock (Jan. 28)
