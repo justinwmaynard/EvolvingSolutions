@@ -2,11 +2,9 @@
 
 Justin Maynard
 
-January 23
-
 ## Responses to Readings
 
-1. [Blumenstock](https://github.com/justinwmaynard/workshop/blob/master/blumenstock.md) (Jan. 28)
+1. [Blumenstock response](https://github.com/justinwmaynard/workshop/blob/master/blumenstock.md) (Jan. 28)
 2. ...
 
 
