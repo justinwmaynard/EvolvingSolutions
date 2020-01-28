@@ -4,12 +4,12 @@ Justin Maynard
 
 January 23
 
-## Informal Responses
+## Responses to Readings
 
 1. Blumenstock (Jan. 28)
 2. ...
 
-
-### Formal Papers
+## Assignments
 
 1. Annotated Bibliography
+  -Problem Statement
