@@ -13,7 +13,7 @@ January 23
 ## Assignments
 
 1. Annotated Bibliography
-   -Problem Statement
-   -4 sources
+  -Problem Statement  
+  -4 sources  
 
 2. ...
