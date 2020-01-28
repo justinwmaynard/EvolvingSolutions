@@ -9,7 +9,9 @@ January 23
 1. Blumenstock (Jan. 28)
 2. ...
 
+
 ## Assignments
 
 1. Annotated Bibliography
   -Problem Statement
+2. ...
