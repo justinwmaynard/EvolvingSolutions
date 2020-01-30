@@ -6,6 +6,7 @@ Justin Maynard
 
 1. [Blumenstock questions](https://github.com/wicked-problems/workshop/blob/master/blumenstock.md)
 2. [Blumenstock response](https://github.com/justinwmaynard/workshop/blob/master/blumenstock.md) (Jan. 28)
+3. [Blumenstock response](https://justinwmaynard.github.io/workshop/) (Jan. 28)
 
 
 
