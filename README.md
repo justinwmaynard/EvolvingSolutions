@@ -4,8 +4,7 @@ Justin Maynard
 
 ## Responses to Readings
 
-1. [Blumenstock questions](https://github.com/wicked-problems/workshop/blob/master/blumenstock.md)
-2. [Blumenstock response](https://justinwmaynard.github.io/workshop/blumenstock) (Jan. 30, revised)
+1. [Blumenstock response](https://justinwmaynard.github.io/workshop/blumenstock) (Jan. 30, revised)
 
 
 
