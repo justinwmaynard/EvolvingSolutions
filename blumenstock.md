@@ -1,6 +1,6 @@
 # Response to Joshua Blumenstock's article
 
-# How do you respond to these ideas regarding “good intent”, “transparency” and the difficult “balancing act” when considering the intersection of human development with data science?
+How do you respond to these ideas regarding “good intent”, “transparency” and the difficult “balancing act” when considering the intersection of human development with data science?
 
 When responding to the ideas of good intent, transparency, and the balancing act when considering the intersection of human development and data science, one must remember that while people and corporations may seem to have the best intentions, often decisions are made based on monetary gain.  While in some industries this may be in the best interest, the data science industry deals with personal data, which if used in the wrong way can have debilitating impacts.  This problem then raises two questions.  First, is “good intent” enough when the data itself is unknowingly biased, and second how much transparency is too much when dealing with sensitive data.
 
