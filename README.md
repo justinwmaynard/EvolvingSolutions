@@ -12,6 +12,4 @@ Justin Maynard
 ## Assignments
 
 1. [Annotated Bibliography](https://justinwmaynard.github.io/EvolvingSolutions/assignment1) (Feb. 13)
-  -Problem Statement  
-  -4 sources  
 2. ...
