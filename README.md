@@ -6,6 +6,7 @@ Justin Maynard
 
 1. [Blumenstock response](https://justinwmaynard.github.io/EvolvingSolutions/blumenstock) (Jan. 30, revised)
 2. [Rosling response](https://justinwmaynard.github.io/EvolvingSolutions/rosling) (Feb. 4)
+3. [Barder response](https://justinwmaynard.github.io/EvolvingSolutions/barder)  (Feb. 18)
 
 
 
