@@ -12,5 +12,5 @@ Justin Maynard
 
 ## Assignments
 
-1. [Annotated Bibliography](https://justinwmaynard.github.io/EvolvingSolutions/assignment1) (Feb. 13)
+1. [Annotated Bibliography](https://justinwmaynard.github.io/EvolvingSolutions/AnnotatedBibliography) (Feb. 23)
 2. ...
