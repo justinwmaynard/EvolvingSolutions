@@ -8,7 +8,7 @@ Feburary 23rd
 
 ## Problem Statement
 
-add here
+​	Climate change related migration is inherently linked to human development as climate change often disproportionately affects those in developing countries and Sub-Saharan Africa, given their the high dependence on agriculture along with the lack of resources and opportunities for adaptation. Voluntary migration is more easily achievable for wealthier and educated individuals as a response to climate change.  The inability to migrate results in trapped populations, which relates to Amartya Sen’s definition of human development.  These populations lack the freedom of protective security, as they are unable to migrate out of climate impacted regions.
 
 ------
 
