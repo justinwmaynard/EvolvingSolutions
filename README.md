@@ -8,6 +8,8 @@ Justin Maynard
 2. [Rosling response](https://justinwmaynard.github.io/EvolvingSolutions/rosling) (Feb. 4)
 3. [Barder response](https://justinwmaynard.github.io/EvolvingSolutions/barder)  (Feb. 18)
 4. [Theory response](https://justinwmaynard.github.io/EvolvingSolutions/theory)  (Feb. 25)
+5. [Stevens response](https://justinwmaynard.github.io/EvolvingSolutions/stevens)  (Feb. 26)
+
 
 
 
