@@ -9,6 +9,8 @@ Justin Maynard
 3. [Barder response](https://justinwmaynard.github.io/EvolvingSolutions/barder)  (Feb. 18)
 4. [Theory response](https://justinwmaynard.github.io/EvolvingSolutions/theory)  (Feb. 25)
 5. [Stevens response](https://justinwmaynard.github.io/EvolvingSolutions/stevens)  (March. 26)
+6. [Nieves response](https://justinwmaynard.github.io/EvolvingSolutions/nieves)  (March. 31)
+
 
 
 
