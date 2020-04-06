@@ -72,26 +72,28 @@
 
   Thus far, my progress has led me to first, identify different types of migration and how they affect populations differently, and how migration is related to human development. Through the use of classical statistical models and machine learning models, like Bayesian belief networks, relationships between climate change and human migration were identified in Africa. These techniques were able to determine specific impacts on different groups of people, and determined differences in effects when presented with different types of climate change.  Even so, research gaps exist. One such gap is that there have been no studies on the population of people who would benefit from migration, but do not have the means to do so.  This would include populations that would normally participate in voluntary migration, but are unable to because of external factors. These people, or “intransient populations” occur when people do not have the resources to adapt to a sudden or gradual climatic disaster, and lack the choice to adapt to climatic change via migration.  Because of the importance of populations unable to migrate, and the effects of human development of this scenario, they will be the focus of the proposed research question. My proposed research question is whether the type of migration pattern used by a specific region is an indicator of the number of intransient people unable to migrate. Potentially, the BBN framework used by Drees and Liehr could be adapted to include people who have not migrated to link similarities and differences in transient and intransient populations.
 
+Word Count: 3136
+
 
 
 ### Works Cited
 
-[1] Bayar, M., & Aral, M. M. (2019). An Analysis of Large-Scale Forced Migration in Africa. *International Journal of Environmental Research and Public Health*, *16*(21), 4210. doi: 10.3390/ijerph16214210
+[[1] Bayar, M., & Aral, M. M. (2019). An Analysis of Large-Scale Forced Migration in Africa. *International Journal of Environmental Research and Public Health*, *16*(21), 4210. doi: 10.3390/ijerph16214210](https://www.mdpi.com/1660-4601/16/21/4210/htm)
 
-[2] Gray, C., & Bilsborrow, R. (2013). Environmental Influences on Human Migration in Rural Ecuador. *Demography*, *50*(4), 1217–1241. doi: 10.1007/s13524-012-0192-y
+[[2] Gray, C., & Bilsborrow, R. (2013). Environmental Influences on Human Migration in Rural Ecuador. *Demography*, *50*(4), 1217–1241. doi: 10.1007/s13524-012-0192-y](https://link.springer.com/article/10.1007/s13524-012-0192-y#Sec17)
 
-[3] Gray, C., & Wise, E. (2016). Country-specific effects of climate variability on human migration. *Climatic Change*, *135*(3-4), 555–568. doi: 10.1007/s10584-015-1592-y
+[[3] Gray, C., & Wise, E. (2016). Country-specific effects of climate variability on human migration. *Climatic Change*, *135*(3-4), 555–568. doi: 10.1007/s10584-015-1592-y](https://link.springer.com/article/10.1007/s10584-015-1592-y#Sec2)
 
-[4] Drees, L., & Liehr, S. (2015). Using Bayesian belief networks to analyse social-ecological conditions for migration in the Sahel. *Global Environmental Change*, *35*, 323–339. doi: 10.1016/j.gloenvcha.2015.09.003
+[[4] Drees, L., & Liehr, S. (2015). Using Bayesian belief networks to analyse social-ecological conditions for migration in the Sahel. *Global Environmental Change*, *35*, 323–339. doi: 10.1016/j.gloenvcha.2015.09.003](https://www-sciencedirect-com.proxy.wm.edu/science/article/pii/S095937801530039X)
 
-[5] Effects of Future Climate Change on Cross-Border Migration in North Africa and India. (2010). Population and Development Review, 36(2), 408–412. doi: 10.1111/j.1728-4457.2010.00338.x
+[[5] Effects of Future Climate Change on Cross-Border Migration in North Africa and India. (2010). Population and Development Review, 36(2), 408–412. doi: 10.1111/j.1728-4457.2010.00338.x](https://www.jstor.org/stable/25699076?seq=1#metadata_info_tab_contents)
 
-[6] Mastrorillo, M. D., Licker, R. D., Bohra-Mishra, P. D., Fagiolo, G. D., Estes, L. D., & Oppenheimer, M. D. (2016). The influence of climate variability on internal migration flows in South Africa. *Global Environmental Change*, *39*, 155–169. doi: 10.1016/j.gloenvcha.2016.04.014
+[[6] Mastrorillo, M. D., Licker, R. D., Bohra-Mishra, P. D., Fagiolo, G. D., Estes, L. D., & Oppenheimer, M. D. (2016). The influence of climate variability on internal migration flows in South Africa. *Global Environmental Change*, *39*, 155–169. doi: 10.1016/j.gloenvcha.2016.04.014](https://www-sciencedirect-com.proxy.wm.edu/science/article/pii/S0959378016300589)
 
-[7] Mcleman, R. A., & Hunter, L. M. (2010). Migration in the context of vulnerability and adaptation to climate change: insights from analogues. *Wiley Interdisciplinary Reviews: Climate Change*, *1*(3), 450–461. doi: 10.1002/wcc.51
+[[7] Mcleman, R. A., & Hunter, L. M. (2010). Migration in the context of vulnerability and adaptation to climate change: insights from analogues. *Wiley Interdisciplinary Reviews: Climate Change*, *1*(3), 450–461. doi: 10.1002/wcc.51](https://onlinelibrary-wiley-com.proxy.wm.edu/doi/full/10.1002/wcc.51)
 
-[8] Mcleman, R. (2012). Developments in modelling of climate change-related migration. *Climatic Change*, *117*(3), 599–611. doi: 10.1007/s10584-012-0578-2
+[[8] Mcleman, R. (2012). Developments in modelling of climate change-related migration. *Climatic Change*, *117*(3), 599–611. doi: 10.1007/s10584-012-0578-2](https://link.springer.com/article/10.1007/s10584-012-0578-2)
 
-[9] Nawrotzki, R. J., Riosmena, F., & Hunter, L. M. (2012). Do Rainfall Deficits Predict U.S.-Bound Migration from Rural Mexico? Evidence from the Mexican Census. *Population Research and Policy Review*, *32*(1), 129–158. doi: 10.1007/s11113-012-9251-8
+[[9] Nawrotzki, R. J., Riosmena, F., & Hunter, L. M. (2012). Do Rainfall Deficits Predict U.S.-Bound Migration from Rural Mexico? Evidence from the Mexican Census. *Population Research and Policy Review*, *32*(1), 129–158. doi: 10.1007/s11113-012-9251-8](https://link.springer.com/article/10.1007/s11113-012-9251-8?shared-article-renderer#Tab2)
 
-[10] Lu, X., Wrathall, D. J., Sundsøy, P. R., Nadiruzzaman, M., Wetter, E., Iqbal, A., … Bengtsson, L. (2016). Unveiling hidden migration and mobility patterns in climate stressed regions: A longitudinal study of six million anonymous mobile phone users in Bangladesh. *Global Environmental Change*, *38*, 1–7. Doi:10.1016/j.gloenvcha.2016.02.002
+[[10] Lu, X., Wrathall, D. J., Sundsøy, P. R., Nadiruzzaman, M., Wetter, E., Iqbal, A., … Bengtsson, L. (2016). Unveiling hidden migration and mobility patterns in climate stressed regions: A longitudinal study of six million anonymous mobile phone users in Bangladesh. *Global Environmental Change*, *38*, 1–7. Doi:10.1016/j.gloenvcha.2016.02.002](https://www.sciencedirect.com/science/article/pii/S0959378016300140)
