@@ -21,3 +21,4 @@ Justin Maynard
 1. [Annotated Bibliography](https://justinwmaynard.github.io/EvolvingSolutions/AnnotatedBibliography) (Feb. 23)
 2. [Assignment 2](https://justinwmaynard.github.io/EvolvingSolutions/assignment2) (April 5)
 3. [Assignment 3](https://justinwmaynard.github.io/EvolvingSolutions/assignment3) (April 19)
+4. [Research Proposal](https://justinwmaynard.github.io/EvolvingSolutions/MaynardResearchProposal) (May 13)
